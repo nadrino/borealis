@@ -22,6 +22,9 @@
 #include <borealis/view.hpp>
 #include <borealis/animations.hpp>
 
+#include <cinttypes>
+
+
 namespace brls
 {
 
